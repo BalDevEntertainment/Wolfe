@@ -75,3 +75,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Conent avoided to reduce size, download them from the marketplace.
+Content/FootstepSound
+Content/HQ_ResidentialHouse
+Content/ModularHouses
+Content/StarterContent
+Content/ModernFurniture
